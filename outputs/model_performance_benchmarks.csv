@@ -1,0 +1,5 @@
+Model_Name,Validation_RMSE,Validation_MAE,Test_RMSE,Test_MAE
+Linear Ridge Regression,24.75,15.48,29.31,19.14
+Time-Series LightGBM (All Features),22.61,14.34,32.1,21.38
+LightGBM with LASSO Selection,23.82,14.79,32.92,21.43
+Hybrid LGBM + CatBoost Ensemble (FINAL),21.65,13.33,27.14,16.8

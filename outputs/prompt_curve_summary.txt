@@ -1,0 +1,309 @@
+=== DAY-AHEAD SPOT TO PROMPT CURVE TRANSLATION VIEW ===
+Delivery Period: 2025-W40
+ -> Expected Spot Baseload : 57.41 EUR/MWh
+ -> Expected Spot Peakload : 80.67 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : -28.11 EUR/MWh
+ -> RECOMMENDED ACTION     : SHORT PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2025-W41
+ -> Expected Spot Baseload : 104.67 EUR/MWh
+ -> Expected Spot Peakload : 118.38 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 19.15 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2025-W42
+ -> Expected Spot Baseload : 112.33 EUR/MWh
+ -> Expected Spot Peakload : 131.37 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 26.81 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2025-W43
+ -> Expected Spot Baseload : 70.10 EUR/MWh
+ -> Expected Spot Peakload : 78.23 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : -15.42 EUR/MWh
+ -> RECOMMENDED ACTION     : SHORT PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2025-W45
+ -> Expected Spot Baseload : 110.40 EUR/MWh
+ -> Expected Spot Peakload : 112.82 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 24.88 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2025-W46
+ -> Expected Spot Baseload : 102.68 EUR/MWh
+ -> Expected Spot Peakload : 112.57 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 17.17 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2025-W47
+ -> Expected Spot Baseload : 109.21 EUR/MWh
+ -> Expected Spot Peakload : 129.87 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 23.70 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2025-W48
+ -> Expected Spot Baseload : 124.28 EUR/MWh
+ -> Expected Spot Peakload : 165.83 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 38.76 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2025-W49
+ -> Expected Spot Baseload : 103.22 EUR/MWh
+ -> Expected Spot Peakload : 113.67 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 17.70 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2025-W50
+ -> Expected Spot Baseload : 101.68 EUR/MWh
+ -> Expected Spot Peakload : 118.85 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 16.16 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2025-W51
+ -> Expected Spot Baseload : 95.67 EUR/MWh
+ -> Expected Spot Peakload : 107.16 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 10.15 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2025-W52
+ -> Expected Spot Baseload : 89.67 EUR/MWh
+ -> Expected Spot Peakload : 92.21 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 4.16 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W04
+ -> Expected Spot Baseload : 131.16 EUR/MWh
+ -> Expected Spot Peakload : 141.90 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 45.65 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W05
+ -> Expected Spot Baseload : 133.68 EUR/MWh
+ -> Expected Spot Peakload : 155.79 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 48.16 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W06
+ -> Expected Spot Baseload : 126.36 EUR/MWh
+ -> Expected Spot Peakload : 134.50 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 40.84 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W07
+ -> Expected Spot Baseload : 125.62 EUR/MWh
+ -> Expected Spot Peakload : 145.28 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 40.10 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W08
+ -> Expected Spot Baseload : 106.05 EUR/MWh
+ -> Expected Spot Peakload : 121.58 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 20.54 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W09
+ -> Expected Spot Baseload : 89.30 EUR/MWh
+ -> Expected Spot Peakload : 104.40 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 3.79 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W10
+ -> Expected Spot Baseload : 117.74 EUR/MWh
+ -> Expected Spot Peakload : 110.02 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 32.22 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W11
+ -> Expected Spot Baseload : 108.16 EUR/MWh
+ -> Expected Spot Peakload : 93.56 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 22.65 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W12
+ -> Expected Spot Baseload : 111.54 EUR/MWh
+ -> Expected Spot Peakload : 105.49 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 26.03 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W13
+ -> Expected Spot Baseload : 91.95 EUR/MWh
+ -> Expected Spot Peakload : 76.37 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 6.43 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W14
+ -> Expected Spot Baseload : 86.46 EUR/MWh
+ -> Expected Spot Peakload : 90.99 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 0.95 EUR/MWh
+ -> RECOMMENDED ACTION     : NEUTRAL / NO-TRADE
+--------------------------------------------------
+Delivery Period: 2026-W15
+ -> Expected Spot Baseload : 84.94 EUR/MWh
+ -> Expected Spot Peakload : 67.67 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : -0.58 EUR/MWh
+ -> RECOMMENDED ACTION     : NEUTRAL / NO-TRADE
+--------------------------------------------------
+Delivery Period: 2026-W16
+ -> Expected Spot Baseload : 116.18 EUR/MWh
+ -> Expected Spot Peakload : 113.94 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 30.66 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W17
+ -> Expected Spot Baseload : 80.83 EUR/MWh
+ -> Expected Spot Peakload : 60.36 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : -4.69 EUR/MWh
+ -> RECOMMENDED ACTION     : SHORT PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W18
+ -> Expected Spot Baseload : 72.90 EUR/MWh
+ -> Expected Spot Peakload : 41.51 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : -12.62 EUR/MWh
+ -> RECOMMENDED ACTION     : SHORT PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W19
+ -> Expected Spot Baseload : 112.60 EUR/MWh
+ -> Expected Spot Peakload : 117.09 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 27.08 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W20
+ -> Expected Spot Baseload : 97.20 EUR/MWh
+ -> Expected Spot Peakload : 85.27 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 11.69 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W21
+ -> Expected Spot Baseload : 105.93 EUR/MWh
+ -> Expected Spot Peakload : 99.10 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 20.42 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W22
+ -> Expected Spot Baseload : 84.22 EUR/MWh
+ -> Expected Spot Peakload : 47.78 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : -1.29 EUR/MWh
+ -> RECOMMENDED ACTION     : NEUTRAL / NO-TRADE
+--------------------------------------------------
+Delivery Period: 2026-W23
+ -> Expected Spot Baseload : 89.17 EUR/MWh
+ -> Expected Spot Peakload : 80.82 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 3.65 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W24
+ -> Expected Spot Baseload : 86.19 EUR/MWh
+ -> Expected Spot Peakload : 88.57 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 0.68 EUR/MWh
+ -> RECOMMENDED ACTION     : NEUTRAL / NO-TRADE
+--------------------------------------------------
+Delivery Period: 2026-W25
+ -> Expected Spot Baseload : 96.49 EUR/MWh
+ -> Expected Spot Peakload : 79.18 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 10.97 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W26
+ -> Expected Spot Baseload : 101.51 EUR/MWh
+ -> Expected Spot Peakload : 75.67 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 15.99 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W27
+ -> Expected Spot Baseload : 86.09 EUR/MWh
+ -> Expected Spot Peakload : 79.41 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 0.58 EUR/MWh
+ -> RECOMMENDED ACTION     : NEUTRAL / NO-TRADE
+--------------------------------------------------
+Delivery Period: 2026-W28
+ -> Expected Spot Baseload : 80.54 EUR/MWh
+ -> Expected Spot Peakload : 53.34 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : -4.98 EUR/MWh
+ -> RECOMMENDED ACTION     : SHORT PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W29
+ -> Expected Spot Baseload : 102.23 EUR/MWh
+ -> Expected Spot Peakload : 87.19 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 16.71 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W30
+ -> Expected Spot Baseload : 89.17 EUR/MWh
+ -> Expected Spot Peakload : 59.90 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 3.66 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W31
+ -> Expected Spot Baseload : 99.90 EUR/MWh
+ -> Expected Spot Peakload : 70.45 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 14.39 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W32
+ -> Expected Spot Baseload : 93.10 EUR/MWh
+ -> Expected Spot Peakload : 68.15 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 7.58 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W33
+ -> Expected Spot Baseload : 99.04 EUR/MWh
+ -> Expected Spot Peakload : 65.86 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 13.53 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W34
+ -> Expected Spot Baseload : 114.40 EUR/MWh
+ -> Expected Spot Peakload : 116.72 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 28.89 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
+Delivery Period: 2026-W35
+ -> Expected Spot Baseload : 97.00 EUR/MWh
+ -> Expected Spot Peakload : 76.83 EUR/MWh
+ -> Current Traded Curve   : 85.52 EUR/MWh
+ -> Calculated Premium     : 11.48 EUR/MWh
+ -> RECOMMENDED ACTION     : LONG PROMPT CURVE
+--------------------------------------------------
