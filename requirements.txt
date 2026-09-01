@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+entsoe
+yfinance
+google.genai
+catboost
+lightgbm
+tabulate
+scikit-learn
+requests
+openai
+tqdm
+urllib3
